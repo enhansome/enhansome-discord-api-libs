@@ -1,0 +1,1606 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "discord-api-docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-08-12T21:53:11Z",
+            "owner": "discord",
+            "repo": "discord-api-docs",
+            "stars": 6457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discord-api-spec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T21:49:08Z",
+            "owner": "discord",
+            "repo": "discord-api-spec",
+            "stars": 321
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "concord",
+          "description": "A Discord API wrapper library made in C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T15:39:53Z",
+            "owner": "Cogmasters",
+            "repo": "concord",
+            "stars": 643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orca",
+          "description": "C Multi-REST API library for Discord, Slack, Reddit, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-03T01:27:06Z",
+            "owner": "cee-studio",
+            "repo": "orca",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libdiscord",
+          "description": "(archived) - A Discord library written in C",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2022-03-03T17:25:08Z",
+            "owner": "dxing97",
+            "repo": "libdiscord",
+            "stars": 139
+          }
+        }
+      ],
+      "title": "C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Discord.Net",
+          "description": "An unofficial .Net wrapper for the Discord API (https://discord.com/)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T19:09:28Z",
+            "owner": "discord-net",
+            "repo": "Discord.Net",
+            "stars": 3505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSharpPlus",
+          "description": "A .NET library for making bots using the Discord API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T18:45:44Z",
+            "owner": "DSharpPlus",
+            "repo": "DSharpPlus",
+            "stars": 1319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discord-rpc-csharp",
+          "description": "C# custom implementation for Discord Rich Presence. Not deprecated and still available!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-08T00:23:11Z",
+            "owner": "Lachee",
+            "repo": "discord-rpc-csharp",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetCord",
+          "description": "A modern, lightweight, and customizable C# Discord library with Native AOT support, immutable caching, voice capabilities, and complete API coverage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T00:22:34Z",
+            "owner": "NetCordDev",
+            "repo": "NetCord",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remora.Discord",
+          "description": "A data-oriented C# Discord library, focused on high-performance concurrency and robust design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-20T14:37:27Z",
+            "owner": "Remora",
+            "repo": "Remora.Discord",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Disqord",
+          "description": "Asynchronous Discord API wrapper and bot framework for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-12T20:19:53Z",
+            "owner": "Quahu",
+            "repo": "Disqord",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discord.Net-Labs",
+          "description": "(archived) - An experimental fork of Discord.Net that implements the newest discord features for testing and development to eventually get merged into Discord.Net",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-04-19T17:55:53Z",
+            "owner": "Discord-Net-Labs",
+            "repo": "Discord.Net-Labs",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DisCatSharp",
+          "description": "Your library to write discord apps in C# with focus on always providing access to the latest discord features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T05:43:42Z",
+            "owner": "Aiko-IT-Systems",
+            "repo": "DisCatSharp",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiscordUnity",
+          "description": "A DiscordAPI made for Unity and only usable for Unity. It contains special features to make it all work.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T10:38:34Z",
+            "owner": "DiscordUnity",
+            "repo": "DiscordUnity",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discore",
+          "description": "A light-weight .NET library for creating Discord bots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-22T05:18:33Z",
+            "owner": "Francessco121",
+            "repo": "Discore",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DPP",
+          "description": "C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T01:03:26Z",
+            "owner": "brainboxdotcc",
+            "repo": "DPP",
+            "stars": 1378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sleepy-discord",
+          "description": "C++ library for the Discord chat client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-03T03:57:51Z",
+            "owner": "yourWaifu",
+            "repo": "sleepy-discord",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aegis.cpp",
+          "description": "(archived) - Discord C++ library for interfacing with the API. Join our server: https://discord.gg/w7Y3Bb8",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-11-30T22:13:50Z",
+            "owner": "zeroxs",
+            "repo": "aegis.cpp",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discordpp",
+          "description": "A Modularized C++ Library for the Discord API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-24T13:56:03Z",
+            "owner": "DiscordPP",
+            "repo": "discordpp",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiscordCoreAPI",
+          "description": "A bot library for Discord, written in C++, and featuring explicit multithreading through the usage of custom, asynchronous C++ CoRoutines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-29T14:30:47Z",
+            "owner": "RealTimeChris",
+            "repo": "DiscordCoreAPI",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DisCPP",
+          "description": "(archived) - Simplified, but feature rich Discord API wrapper written in modern C++.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-10-08T16:43:48Z",
+            "owner": "DisCPP",
+            "repo": "DisCPP",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "discljord",
+          "description": "A Clojure wrapper library for the Discord API, with full API coverage (except voice, for now), and high scalability",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-07-22T20:49:23Z",
+            "owner": "discljord",
+            "repo": "discljord",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discord.clj",
+          "description": "A Clojure library for creating Discord bots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-06-02T04:17:09Z",
+            "owner": "gizmo385",
+            "repo": "discord.clj",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ring-discord-auth",
+          "description": "Fast and secure functions and ring middleware to verify ED-25519-signed Discord interactions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-10-03T19:46:20Z",
+            "owner": "JohnnyJayJay",
+            "repo": "ring-discord-auth",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Clojure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nostrum",
+          "description": "Elixir Discord Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-04-05T17:42:55Z",
+            "owner": "Kraigie",
+            "repo": "nostrum",
+            "stars": 722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alchemy",
+          "description": "(archived) - A discord library for Elixir",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Elixir",
+            "last_commit": "2023-05-01T17:54:31Z",
+            "owner": "cronokirby",
+            "repo": "alchemy",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coxir",
+          "description": "A modern Elixir wrapper for Discord.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2022-04-02T20:10:20Z",
+            "owner": "satom99",
+            "repo": "coxir",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crux",
+          "description": "(archived) - Repository creating the umbrella documentation for all crux libraries",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Elixir",
+            "last_commit": "2020-03-17T17:56:04Z",
+            "owner": "SpaceEEC",
+            "repo": "crux",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Elixir"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "discordgo",
+          "description": "(Golang) Go bindings for Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-14T12:39:28Z",
+            "owner": "bwmarrin",
+            "repo": "discordgo",
+            "stars": 5971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disgo",
+          "description": "A modular Golang Discord API Wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T21:38:41Z",
+            "owner": "disgoorg",
+            "repo": "disgo",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arikawa",
+          "description": "A Golang library and framework for the Discord API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-18T05:07:52Z",
+            "owner": "diamondburned",
+            "repo": "arikawa",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disgord",
+          "description": "(archived) - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-03-10T09:14:06Z",
+            "owner": "andersfylling",
+            "repo": "disgord",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goscord",
+          "description": "(archived) - A Discord API wrapper written in Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-11-20T23:26:39Z",
+            "owner": "Goscord",
+            "repo": "goscord",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discord-interactions-go",
+          "description": "discord interactions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-09-22T04:07:06Z",
+            "owner": "bsdlp",
+            "repo": "discord-interactions-go",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "discord-haskell",
+          "description": "Haskell library for writing Discord bots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-07-06T21:05:55Z",
+            "owner": "discord-haskell",
+            "repo": "discord-haskell",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "calamity",
+          "description": "A library for writing discord bots in haskell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2025-05-29T08:20:34Z",
+            "owner": "simmsb",
+            "repo": "calamity",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discord.hs",
+          "description": "(archived) - Have you heard of our lord and savior Haskell?",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Haskell",
+            "last_commit": "2017-07-11T04:18:21Z",
+            "owner": "TiltMeSenpai",
+            "repo": "Discord.hs",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Haskell"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JDA",
+          "description": "Java wrapper for the popular chat & VOIP service: Discord https://discord.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-09T15:25:24Z",
+            "owner": "discord-jda",
+            "repo": "JDA",
+            "stars": 4675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discord4J",
+          "description": "Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development of Discord bots for Java, Kotlin, and other JVM languages using the official Discord Bot API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T00:06:15Z",
+            "owner": "Discord4J",
+            "repo": "Discord4J",
+            "stars": 1919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Javacord",
+          "description": "An easy to use multithreaded library for creating Discord bots in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-02-07T17:36:10Z",
+            "owner": "Javacord",
+            "repo": "Javacord",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discord-webhooks",
+          "description": "Provides easy to use bindings for the Discord Webhook API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-02-28T18:32:00Z",
+            "owner": "MinnDevelopment",
+            "repo": "discord-webhooks",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "catnip",
+          "description": "(archived) - A reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-04-17T23:10:08Z",
+            "owner": "mewna",
+            "repo": "catnip",
+            "stars": 149
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eris",
+          "description": "A NodeJS Discord library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-28T22:14:27Z",
+            "owner": "abalabahaha",
+            "repo": "eris",
+            "stars": 1510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discord.io",
+          "description": "(archived) - A small, single-file library for creating DiscordApp clients from Node.js or the browser",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-03-10T04:17:51Z",
+            "owner": "izy521",
+            "repo": "discord.io",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discordie",
+          "description": "Predictable JavaScript abstractions for Discord API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-27T16:42:34Z",
+            "owner": "qeled",
+            "repo": "discordie",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "interactions.js",
+          "description": "(archived) - 🤖 A powerful Javascript library to work with discords interactions",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-05-15T14:19:36Z",
+            "owner": "fb-sean",
+            "repo": "interactions.js",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-cord",
+          "description": "js-cord is a wrapper around the Discord API, written and to be used in Javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-31T16:01:53Z",
+            "owner": "jay3332",
+            "repo": "js-cord",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kord",
+          "description": "Idiomatic Kotlin Wrapper for The Discord API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T14:50:01Z",
+            "owner": "kordlib",
+            "repo": "kord",
+            "stars": 1058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diskord",
+          "description": "A Kotlin client for Discord with a light wrapper on the REST APIs and a simple to use DSL for basic bots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-04-12T23:19:07Z",
+            "owner": "JesseCorbett",
+            "repo": "diskord",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jda-ktx",
+          "description": "Collection of useful Kotlin extensions for JDA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-05T17:00:58Z",
+            "owner": "MinnDevelopment",
+            "repo": "jda-ktx",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discord.Kt",
+          "description": "A discord library written in Kotlin for Kotlin/JVM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-11-08T12:21:50Z",
+            "owner": "Jofairden",
+            "repo": "Discord.Kt",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Kotlin"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Discordia",
+          "description": "Discord API library written in Lua for the Luvit runtime environment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-21T16:29:00Z",
+            "owner": "SinisterRectus",
+            "repo": "Discordia",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discordia-slash",
+          "description": "Discordia application commands extension",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-02T09:43:28Z",
+            "owner": "GitSparTV",
+            "repo": "discordia-slash",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "litcord",
+          "description": "A Lua wrapper for Discord.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-02-28T15:51:53Z",
+            "owner": "satom99",
+            "repo": "litcord",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lacord",
+          "description": "A low level, lightweight discord API library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-09-12T21:21:15Z",
+            "owner": "Mehgugs",
+            "repo": "lacord",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Lua"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dimscord",
+          "description": "A Discord Bot & REST Library for Nim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2026-06-21T18:00:21Z",
+            "owner": "krisppurg",
+            "repo": "dimscord",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discordnim",
+          "description": "Discord library for nim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2020-07-27T00:20:27Z",
+            "owner": "Krognol",
+            "repo": "discordnim",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nimcord",
+          "description": "(archived) - Memory optimized, simple, and feature rich Discord API wrapper written in Nim.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Nim",
+            "last_commit": "2021-10-08T16:42:21Z",
+            "owner": "SeanOMik",
+            "repo": "nimcord",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Nim"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DiscordPHP",
+          "description": "An API to interact with the popular messaging app Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T18:44:40Z",
+            "owner": "discord-php",
+            "repo": "DiscordPHP",
+            "stars": 1077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "restcord",
+          "description": "Discord REST API Client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-17T15:30:25Z",
+            "owner": "restcord",
+            "repo": "restcord",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discord-interactions-php",
+          "description": "PHP utilities for building Discord Interaction webhooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-11-28T06:15:53Z",
+            "owner": "discord",
+            "repo": "discord-interactions-php",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiscordPHP-Slash",
+          "description": "(archived) - PHP server and client for Discord slash commands.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2022-07-19T18:25:10Z",
+            "owner": "discord-php",
+            "repo": "DiscordPHP-Slash",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nyasmin",
+          "description": "Dedicated to maintaining the Yasmin core used by Palace Bot #9203",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-10-15T14:30:35Z",
+            "owner": "valzargaming",
+            "repo": "Nyasmin",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "discord.py",
+          "description": "An API wrapper for Discord written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T18:33:15Z",
+            "owner": "Rapptz",
+            "repo": "discord.py",
+            "stars": 16137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pycord",
+          "description": "Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:21:19Z",
+            "owner": "Pycord-Development",
+            "repo": "pycord",
+            "stars": 2954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextcord",
+          "description": "A Python wrapper for the Discord API forked from discord.py",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:34:13Z",
+            "owner": "nextcord",
+            "repo": "nextcord",
+            "stars": 1267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hikari",
+          "description": "A Discord API wrapper for Python and asyncio built on good intentions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:33:51Z",
+            "owner": "hikari-py",
+            "repo": "hikari",
+            "stars": 913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "interactions.py",
+          "description": "A highly extensible, easy to use, and feature complete bot framework for Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:51:47Z",
+            "owner": "interactions-py",
+            "repo": "interactions.py",
+            "stars": 875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disnake",
+          "description": "An API wrapper for Discord written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T09:55:29Z",
+            "owner": "DisnakeDev",
+            "repo": "disnake",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disco",
+          "description": "(archived) - Discord Python library for people that like to dance",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-11-16T14:00:20Z",
+            "owner": "b1naryth1ef",
+            "repo": "disco",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hata",
+          "description": "Async Discord API wrapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T14:26:03Z",
+            "owner": "HuyaneMatsu",
+            "repo": "hata",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dislash.py",
+          "description": "(archived) - A Python wrapper for discord slash-commands and buttons, designed to extend discord.py.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-12-26T15:23:35Z",
+            "owner": "EQUENOS",
+            "repo": "dislash.py",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discord-interactions-python",
+          "description": "Useful tools for building interactions in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-30T17:25:22Z",
+            "owner": "discord",
+            "repo": "discord-interactions-python",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NAFF",
+          "description": "(archived) - A Python API wrapper for Discord",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-03-13T07:57:30Z",
+            "owner": "NAFTeam",
+            "repo": "NAFF",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flask-discord-interactions",
+          "description": "A Flask extension to enable declarative definitions for Discord slash commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-17T15:03:17Z",
+            "owner": "breqdev",
+            "repo": "flask-discord-interactions",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dispike",
+          "description": "An independent, simple to use, powerful framework for creating interaction-based Discord bots. Powered by FastAPI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-07T08:00:19Z",
+            "owner": "ms7m",
+            "repo": "dispike",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scurrypy",
+          "description": "Minimal, explicit Discord API wrapper designed for clarity and control",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-25T21:11:16Z",
+            "owner": "scurry-works",
+            "repo": "scurrypy",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enhanced-discord.py",
+          "description": "(archived) - An API wrapper for Discord written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-06-22T19:14:12Z",
+            "owner": "iDevision",
+            "repo": "enhanced-discord.py",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "discordrb",
+          "description": "Discord API for Ruby",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-19T22:32:28Z",
+            "owner": "shardlab",
+            "repo": "discordrb",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vox",
+          "description": "Discord library in ruby",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-10-14T18:57:14Z",
+            "owner": "swarley",
+            "repo": "vox",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "serenity",
+          "description": "A Rust library for the Discord API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T21:20:12Z",
+            "owner": "serenity-rs",
+            "repo": "serenity",
+            "stars": 5585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twilight",
+          "description": "Powerful, flexible, and scalable ecosystem of Rust libraries for the Discord API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T12:37:31Z",
+            "owner": "twilight-rs",
+            "repo": "twilight",
+            "stars": 861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "songbird",
+          "description": "An async Rust library for the Discord voice API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-08T16:04:21Z",
+            "owner": "serenity-rs",
+            "repo": "songbird",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discord-rs",
+          "description": "Rust library for the Discord chat client API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-11-22T02:03:15Z",
+            "owner": "SpaceManiac",
+            "repo": "discord-rs",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "accord",
+          "description": "(archived) - Discord API client to power Discord API clients via the power of love, friendship, and HTTP 💖",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-10-08T17:47:34Z",
+            "owner": "passcod",
+            "repo": "accord",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "automate",
+          "description": "(archived) - An asynchronous library to interact with Discord API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-04-16T17:23:40Z",
+            "owner": "mbenoukaiss",
+            "repo": "automate",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sword",
+          "description": "(archived) - Discord library for Swift",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2020-12-04T21:55:34Z",
+            "owner": "Azoy",
+            "repo": "Sword",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftDiscord",
+          "description": "Discord API Client for Swift",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-08-03T23:02:46Z",
+            "owner": "nuclearace",
+            "repo": "SwiftDiscord",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftDisc",
+          "description": "SwiftDisc is a lightweight, native Swift library designed for building powerful Discord bots on iOS and macOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-09T02:20:10Z",
+            "owner": "M1tsumi",
+            "repo": "SwiftDisc",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Swift"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "discord.js",
+          "description": "A powerful JavaScript library for interacting with the Discord API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T12:20:47Z",
+            "owner": "discordjs",
+            "repo": "discord.js",
+            "stars": 26776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discordeno",
+          "description": "Discord API library for Node and Deno",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T08:44:31Z",
+            "owner": "discordeno",
+            "repo": "discordeno",
+            "stars": 940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "framework",
+          "description": "Discord bot framework built on top of discord.js for advanced and amazing bots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:01:39Z",
+            "owner": "sapphiredev",
+            "repo": "framework",
+            "stars": 750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discord-interactions-js",
+          "description": "JS/Node helpers for Discord Interactions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-28T02:40:50Z",
+            "owner": "discord",
+            "repo": "discord-interactions-js",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slash-create",
+          "description": "🗡️ Creator and handler for Discord's slash commands",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T22:11:20Z",
+            "owner": "Snazzah",
+            "repo": "slash-create",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "voice",
+          "description": "(archived) - Implementation of the Discord Voice API for discord.js and other JS/TS libraries",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-07-12T18:05:58Z",
+            "owner": "discordjs",
+            "repo": "voice",
+            "stars": 329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "harmony",
+          "description": "An easy to use Discord API Library for Deno.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-09T09:21:46Z",
+            "owner": "harmonyland",
+            "repo": "harmony",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seyfert",
+          "description": "the black magic Discord framework 🧙‍♂️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:09:59Z",
+            "owner": "tiramisulabs",
+            "repo": "seyfert",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "client",
+          "description": "A Typescript NodeJS library to interact with Discord's API, both Rest and Gateway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T19:59:45Z",
+            "owner": "detritusjs",
+            "repo": "client",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discord-slash-commands",
+          "description": "Node.JS Slash Commands for Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-03T08:18:57Z",
+            "owner": "MeguminSama",
+            "repo": "discord-slash-commands",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dressed",
+          "description": "A sleek, serverless-ready Discord API library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T09:24:30Z",
+            "owner": "Inbestigator",
+            "repo": "dressed",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "droff",
+          "description": "Simple Discord client powered by RxJS and Axios",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-26T05:00:03Z",
+            "owner": "tim-smart",
+            "repo": "droff",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "core",
+          "description": "(archived) - Discord API library",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-05T07:18:47Z",
+            "owner": "dirigeants",
+            "repo": "core",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skycord",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-05-25T18:53:31Z",
+            "owner": "skycord",
+            "repo": "skycord",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arcscord",
+          "description": "A discord.js framework, slash command first and full typescript !",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T11:07:09Z",
+            "owner": "arcscord",
+            "repo": "arcscord",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deno-Discord-Slash-Commands",
+          "description": "Deno Slash Commands for Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-02T03:09:07Z",
+            "owner": "Redstoneguy129",
+            "repo": "Deno-Discord-Slash-Commands",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "TypeScript"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:35.291Z",
+    "original_repository": "apacheli/discord-api-libs",
+    "original_repository_sha": "fb96ffe4ecf8c41d3322106be8876b12aeee4c64",
+    "enhanced_repository": "enhansome/enhansome-discord-api-libs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Discord API Libraries 🚀 with stars"
+  }
+}
