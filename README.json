@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 54995014,
                 "language": "MDX",
-                "last_commit": "2026-08-14T22:46:33Z",
+                "last_commit": "2026-08-20T00:23:14Z",
                 "owner": "discord",
                 "repo": "discord-api-docs",
-                "stars": 6468
+                "stars": 6470
               }
             },
             {
@@ -124,7 +124,7 @@
                 "archived": false,
                 "id": 67243489,
                 "language": "C#",
-                "last_commit": "2026-08-17T04:02:56Z",
+                "last_commit": "2026-08-19T17:36:16Z",
                 "owner": "DSharpPlus",
                 "repo": "DSharpPlus",
                 "stars": 1319
@@ -142,7 +142,7 @@
                 "last_commit": "2025-12-08T00:23:11Z",
                 "owner": "Lachee",
                 "repo": "discord-rpc-csharp",
-                "stars": 694
+                "stars": 693
               }
             },
             {
@@ -154,7 +154,7 @@
                 "archived": false,
                 "id": 428838886,
                 "language": "C#",
-                "last_commit": "2026-08-17T18:31:56Z",
+                "last_commit": "2026-08-19T18:36:24Z",
                 "owner": "NetCordDev",
                 "repo": "NetCord",
                 "stars": 452
@@ -214,7 +214,7 @@
                 "archived": false,
                 "id": 381022279,
                 "language": "C#",
-                "last_commit": "2026-08-17T19:47:25Z",
+                "last_commit": "2026-08-20T01:25:39Z",
                 "owner": "Aiko-IT-Systems",
                 "repo": "DisCatSharp",
                 "stars": 144
@@ -269,7 +269,7 @@
                 "last_commit": "2026-08-13T21:55:48Z",
                 "owner": "brainboxdotcc",
                 "repo": "DPP",
-                "stars": 1378
+                "stars": 1379
               }
             },
             {
@@ -418,7 +418,7 @@
                 "last_commit": "2026-04-05T17:42:55Z",
                 "owner": "Kraigie",
                 "repo": "nostrum",
-                "stars": 722
+                "stars": 723
               }
             },
             {
@@ -500,7 +500,7 @@
                 "last_commit": "2026-08-10T21:38:41Z",
                 "owner": "disgoorg",
                 "repo": "disgo",
-                "stars": 603
+                "stars": 605
               }
             },
             {
@@ -646,7 +646,7 @@
                 "archived": false,
                 "id": 45755430,
                 "language": "Java",
-                "last_commit": "2026-08-18T13:50:00Z",
+                "last_commit": "2026-08-20T00:07:56Z",
                 "owner": "Discord4J",
                 "repo": "Discord4J",
                 "stars": 1919
@@ -981,7 +981,7 @@
                 "archived": false,
                 "id": 40585918,
                 "language": "PHP",
-                "last_commit": "2026-08-18T20:55:20Z",
+                "last_commit": "2026-08-19T16:43:22Z",
                 "owner": "discord-php",
                 "repo": "DiscordPHP",
                 "stars": 1077
@@ -1066,7 +1066,7 @@
                 "last_commit": "2026-07-27T18:33:15Z",
                 "owner": "Rapptz",
                 "repo": "discord.py",
-                "stars": 16142
+                "stars": 16145
               }
             },
             {
@@ -1108,7 +1108,7 @@
                 "archived": false,
                 "id": 287714309,
                 "language": "Python",
-                "last_commit": "2026-08-18T07:09:33Z",
+                "last_commit": "2026-08-19T18:58:58Z",
                 "owner": "hikari-py",
                 "repo": "hikari",
                 "stars": 915
@@ -1335,7 +1335,7 @@
                 "last_commit": "2026-08-08T21:20:12Z",
                 "owner": "serenity-rs",
                 "repo": "serenity",
-                "stars": 5588
+                "stars": 5589
               }
             },
             {
@@ -1350,7 +1350,7 @@
                 "last_commit": "2026-08-13T04:32:59Z",
                 "owner": "twilight-rs",
                 "repo": "twilight",
-                "stars": 862
+                "stars": 863
               }
             },
             {
@@ -1484,7 +1484,7 @@
                 "last_commit": "2026-08-17T10:13:37Z",
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26789
+                "stars": 26790
               }
             },
             {
@@ -1529,7 +1529,7 @@
                 "last_commit": "2025-10-28T02:40:50Z",
                 "owner": "discord",
                 "repo": "discord-interactions-js",
-                "stars": 515
+                "stars": 516
               }
             },
             {
@@ -1722,10 +1722,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:25:33.451Z",
+    "last_updated": "2026-08-20T01:54:19.084Z",
     "original_repository": "apacheli/discord-api-libs",
     "original_repository_id": 291793513,
-    "original_repository_sha": "8ccbf3c0981bcad5bec3f3b62de55700285d6a86",
+    "original_repository_sha": "44f89aaca169cdf02e8c0c96a2dbedc3e9876f24",
     "enhanced_repository": "enhansome/enhansome-discord-api-libs",
     "enhanced_repository_description": null,
     "title": "Awesome Discord API Libraries 🚀 with stars"
