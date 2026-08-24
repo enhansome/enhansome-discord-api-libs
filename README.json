@@ -50,6 +50,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "module-ballerinax-discord",
+              "description": "The Ballerina connector for Discord REST API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816671425,
+                "language": "Ballerina",
+                "last_commit": "2026-03-26T16:45:26Z",
+                "owner": "ballerina-platform",
+                "repo": "module-ballerinax-discord",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ballerina"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "concord",
               "description": "A Discord API wrapper library made in C",
               "children": [],
@@ -408,6 +430,94 @@
           "children": [
             {
               "node_type": "item",
+              "title": "lispcord",
+              "description": "A client library for the discordapp bot api",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108530281,
+                "language": "Common Lisp",
+                "last_commit": "2024-01-06T08:14:13Z",
+                "owner": "lispcord",
+                "repo": "lispcord",
+                "stars": 78
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Common Lisp"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "discordcr",
+              "description": "Minimalist Discord library for Crystal",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 312285753,
+                "language": "Crystal",
+                "last_commit": "2023-12-07T02:19:30Z",
+                "owner": "shardlab",
+                "repo": "discordcr",
+                "stars": 109
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Crystal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dscord",
+              "description": "(archived) - Discord Library for D",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 56763511,
+                "language": "D",
+                "last_commit": "2019-05-20T22:29:40Z",
+                "owner": "b1naryth1ef",
+                "repo": "dscord",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "D"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nyxx",
+              "description": "Wrapper around Discord API for Dart",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137649076,
+                "language": "Dart",
+                "last_commit": "2026-08-10T16:08:08Z",
+                "owner": "nyxx-discord",
+                "repo": "nyxx",
+                "stars": 345
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dart"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "nostrum",
               "description": "Elixir Discord Library",
               "children": [],
@@ -475,6 +585,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "discord_gleam",
+              "description": "A library to create discord bots in gleam",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 828908735,
+                "language": "Gleam",
+                "last_commit": "2026-07-05T14:35:46Z",
+                "owner": "cyteon",
+                "repo": "discord_gleam",
+                "stars": 53
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Gleam"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "discordgo",
               "description": "(Golang) Go bindings for Discord",
               "children": [],
@@ -485,7 +617,7 @@
                 "last_commit": "2026-02-14T12:39:28Z",
                 "owner": "bwmarrin",
                 "repo": "discordgo",
-                "stars": 5973
+                "stars": 5974
               }
             },
             {
@@ -500,7 +632,7 @@
                 "last_commit": "2026-08-10T21:38:41Z",
                 "owner": "disgoorg",
                 "repo": "disgo",
-                "stars": 606
+                "stars": 607
               }
             },
             {
@@ -624,6 +756,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Haxicord",
+              "description": "The most popular discord API Haxe library (because no others are good enough to be called a library)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96160564,
+                "language": "Haxe",
+                "last_commit": "2022-10-06T20:11:10Z",
+                "owner": "RaidAndFade",
+                "repo": "Haxicord",
+                "stars": 61
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Haxe"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "JDA",
               "description": "Java wrapper for the popular chat & VOIP service: Discord https://discord.com",
               "children": [],
@@ -646,7 +800,7 @@
                 "archived": false,
                 "id": 45755430,
                 "language": "Java",
-                "last_commit": "2026-08-24T00:10:07Z",
+                "last_commit": "2026-08-24T12:33:24Z",
                 "owner": "Discord4J",
                 "repo": "Discord4J",
                 "stars": 1920
@@ -716,7 +870,7 @@
                 "last_commit": "2025-09-28T22:14:27Z",
                 "owner": "abalabahaha",
                 "repo": "eris",
-                "stars": 1512
+                "stars": 1514
               }
             },
             {
@@ -783,6 +937,28 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Discord.jl",
+              "description": "The Julia Discord API Wrapper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151697709,
+                "language": "Julia",
+                "last_commit": "2023-04-16T05:37:08Z",
+                "owner": "Xh4H",
+                "repo": "Discord.jl",
+                "stars": 157
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Julia"
         },
         {
           "children": [
@@ -981,7 +1157,7 @@
                 "archived": false,
                 "id": 40585918,
                 "language": "PHP",
-                "last_commit": "2026-08-21T03:57:23Z",
+                "last_commit": "2026-08-24T13:20:50Z",
                 "owner": "discord-php",
                 "repo": "DiscordPHP",
                 "stars": 1077
@@ -1066,7 +1242,7 @@
                 "last_commit": "2026-07-27T18:33:15Z",
                 "owner": "Rapptz",
                 "repo": "discord.py",
-                "stars": 16147
+                "stars": 16148
               }
             },
             {
@@ -1078,7 +1254,7 @@
                 "archived": false,
                 "id": 400837389,
                 "language": "Python",
-                "last_commit": "2026-08-23T22:38:26Z",
+                "last_commit": "2026-08-24T11:25:06Z",
                 "owner": "Pycord-Development",
                 "repo": "pycord",
                 "stars": 2956
@@ -1108,10 +1284,10 @@
                 "archived": false,
                 "id": 287714309,
                 "language": "Python",
-                "last_commit": "2026-08-24T01:39:49Z",
+                "last_commit": "2026-08-24T02:10:55Z",
                 "owner": "hikari-py",
                 "repo": "hikari",
-                "stars": 915
+                "stars": 916
               }
             },
             {
@@ -1126,7 +1302,7 @@
                 "last_commit": "2026-08-17T21:18:32Z",
                 "owner": "interactions-py",
                 "repo": "interactions.py",
-                "stars": 874
+                "stars": 873
               }
             },
             {
@@ -1288,6 +1464,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "racket-cord",
+              "description": "A discord library for racket",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107191635,
+                "language": "Racket",
+                "last_commit": "2026-06-24T00:44:02Z",
+                "owner": "simmsb",
+                "repo": "racket-cord",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Racket"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "raku-api-discord",
+              "description": "Raku module for interacting with the Discord API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139187782,
+                "language": "Raku",
+                "last_commit": "2022-08-30T14:41:22Z",
+                "owner": "shuppet",
+                "repo": "raku-api-discord",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Raku"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "discordrb",
               "description": "Discord API for Ruby",
               "children": [],
@@ -1422,6 +1642,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "AckCord",
+              "description": "A Discord library for Scala using Akka",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86757933,
+                "language": "Scala",
+                "last_commit": "2026-06-23T13:06:13Z",
+                "owner": "Katrix",
+                "repo": "AckCord",
+                "stars": 118
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scala"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "discord.sh",
+              "description": "Write-only command-line Discord webhooks integration written in 100% Bash script",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144440846,
+                "language": "Shell",
+                "last_commit": "2025-11-06T15:29:01Z",
+                "owner": "fieu",
+                "repo": "discord.sh",
+                "stars": 565
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Shell"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Sword",
               "description": "(archived) - Discord library for Swift",
               "children": [],
@@ -1496,7 +1760,7 @@
                 "archived": false,
                 "id": 238842359,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T12:44:13Z",
+                "last_commit": "2026-08-24T08:32:22Z",
                 "owner": "discordeno",
                 "repo": "discordeno",
                 "stars": 941
@@ -1722,7 +1986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:59:57.252Z",
+    "last_updated": "2026-08-24T14:29:14.241Z",
     "original_repository": "apacheli/discord-api-libs",
     "original_repository_id": 291793513,
     "original_repository_sha": "84a505e475c54b309659c12ded1aff7e03f11b64",
