@@ -149,7 +149,7 @@
                 "last_commit": "2026-08-24T21:59:10Z",
                 "owner": "DSharpPlus",
                 "repo": "DSharpPlus",
-                "stars": 1320
+                "stars": 1319
               }
             },
             {
@@ -1242,7 +1242,7 @@
                 "last_commit": "2026-07-27T18:33:15Z",
                 "owner": "Rapptz",
                 "repo": "discord.py",
-                "stars": 16149
+                "stars": 16150
               }
             },
             {
@@ -1518,7 +1518,7 @@
                 "last_commit": "2026-06-19T22:32:28Z",
                 "owner": "shardlab",
                 "repo": "discordrb",
-                "stars": 616
+                "stars": 615
               }
             },
             {
@@ -1850,7 +1850,7 @@
                 "archived": false,
                 "id": 505204005,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:45:59Z",
+                "last_commit": "2026-08-25T06:01:25Z",
                 "owner": "tiramisulabs",
                 "repo": "seyfert",
                 "stars": 314
@@ -1986,7 +1986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:55:12.747Z",
+    "last_updated": "2026-08-25T06:20:59.223Z",
     "original_repository": "apacheli/discord-api-libs",
     "original_repository_id": 291793513,
     "original_repository_sha": "f28d4828be11b19644566e0e1feccd0ac0fd7f5b",

@@ -34,7 +34,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 ### C\#
 
 * [Discord.Net](https://github.com/discord-net/Discord.Net) ⭐ 3,509 | 🐛 110 | 🌐 C# | 📅 2026-08-21 - An unofficial .Net wrapper for the Discord API (<https://discord.com/>)
-* [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) ⭐ 1,320 | 🐛 98 | 🌐 C# | 📅 2026-08-24 - A .NET library for making bots using the Discord API.
+* [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) ⭐ 1,319 | 🐛 98 | 🌐 C# | 📅 2026-08-24 - A .NET library for making bots using the Discord API.
 * [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp) ⭐ 693 | 🐛 27 | 🌐 C# | 📅 2025-12-08 - C# custom implementation for Discord Rich Presence. Not deprecated and still available!
 * [NetCord](https://github.com/NetCordDev/NetCord) ⭐ 452 | 🐛 20 | 🌐 C# | 📅 2026-08-21 - A modern, lightweight, and customizable C# Discord library with Native AOT support, immutable caching, voice capabilities, and complete API coverage.
 * [Remora.Discord](https://github.com/Remora/Remora.Discord) ⭐ 258 | 🐛 29 | 🌐 C# | 📅 2026-06-20 - A data-oriented C# Discord library, focused on high-performance concurrency and robust design.
@@ -107,7 +107,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### Java
 
-* [JDA](https://github.com/discord-jda/JDA) ⭐ 4,681 | 🐛 74 | 🌐 Java | 📅 2026-08-23 - Java wrapper for the popular chat & VOIP service: Discord <https://discord.com>
+* [JDA](https://github.com/discord-jda/JDA) ⭐ 4,681 | 🐛 75 | 🌐 Java | 📅 2026-08-23 - Java wrapper for the popular chat & VOIP service: Discord <https://discord.com>
 * [Discord4J](https://github.com/Discord4J/Discord4J) ⭐ 1,920 | 🐛 28 | 🌐 Java | 📅 2026-08-24 - Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development of Discord bots for Java, Kotlin, and other JVM languages using the official Discord Bot API.
 * [Javacord](https://github.com/Javacord/Javacord) ⭐ 769 | 🐛 112 | 🌐 Java | 📅 2025-02-07 - An easy to use multithreaded library for creating Discord bots in Java.
 * [discord-webhooks](https://github.com/MinnDevelopment/discord-webhooks) ⭐ 196 | 🐛 10 | 🌐 Java | 📅 2024-02-28 - Provides easy to use bindings for the Discord Webhook API
@@ -147,7 +147,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### PHP
 
-* [DiscordPHP](https://github.com/discord-php/DiscordPHP) ⭐ 1,077 | 🐛 18 | 🌐 PHP | 📅 2026-08-24 - An API to interact with the popular messaging app Discord
+* [DiscordPHP](https://github.com/discord-php/DiscordPHP) ⭐ 1,077 | 🐛 19 | 🌐 PHP | 📅 2026-08-24 - An API to interact with the popular messaging app Discord
 * [restcord](https://github.com/restcord/restcord) ⭐ 178 | 🐛 33 | 🌐 PHP | 📅 2024-03-17 - Discord REST API Client
 * [discord-interactions-php](https://github.com/discord/discord-interactions-php) ⭐ 47 | 🐛 2 | 🌐 PHP | 📅 2023-11-28 - PHP utilities for building Discord Interaction webhooks
 * [DiscordPHP-Slash](https://github.com/discord-php/DiscordPHP-Slash) ⚠️ Archived **(archived)** - PHP server and client for Discord slash commands.
@@ -155,7 +155,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,149 | 🐛 161 | 🌐 Python | 📅 2026-07-27 - An API wrapper for Discord written in Python.
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,150 | 🐛 161 | 🌐 Python | 📅 2026-07-27 - An API wrapper for Discord written in Python.
 * [pycord](https://github.com/Pycord-Development/pycord) ⭐ 2,956 | 🐛 100 | 🌐 Python | 📅 2026-08-24 - Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python
 * [nextcord](https://github.com/nextcord/nextcord) ⭐ 1,265 | 🐛 69 | 🌐 Python | 📅 2026-08-24 - A Python wrapper for the Discord API forked from discord.py
 * [hikari](https://github.com/hikari-py/hikari) ⭐ 916 | 🐛 46 | 🌐 Python | 📅 2026-08-24 - A Discord API wrapper for Python and asyncio built on good intentions.
@@ -181,7 +181,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### Ruby
 
-* [discordrb](https://github.com/shardlab/discordrb) ⭐ 616 | 🐛 82 | 🌐 Ruby | 📅 2026-06-19 - Discord API for Ruby
+* [discordrb](https://github.com/shardlab/discordrb) ⭐ 615 | 🐛 82 | 🌐 Ruby | 📅 2026-06-19 - Discord API for Ruby
 * [vox](https://github.com/swarley/vox) ⭐ 13 | 🐛 3 | 🌐 Ruby | 📅 2020-10-14 - Discord library in ruby
 
 ### Rust
@@ -216,7 +216,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 * [slash-create](https://github.com/Snazzah/slash-create) ⭐ 365 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-05 - 🗡️ Creator and handler for Discord's slash commands
 * [voice](https://github.com/discordjs/voice) ⚠️ Archived **(archived)** - Implementation of the Discord Voice API for discord.js and other JS/TS libraries
 * [harmony](https://github.com/harmonyland/harmony) ⭐ 324 | 🐛 16 | 🌐 TypeScript | 📅 2026-01-09 - An easy to use Discord API Library for Deno.
-* [seyfert](https://github.com/tiramisulabs/seyfert) ⭐ 314 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-24 - the black magic Discord framework 🧙‍♂️
+* [seyfert](https://github.com/tiramisulabs/seyfert) ⭐ 314 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-25 - the black magic Discord framework 🧙‍♂️
 * [client](https://github.com/detritusjs/client) ⭐ 209 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-02 - A Typescript NodeJS library to interact with Discord's API, both Rest and Gateway.
 * [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands) ⭐ 103 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-03 - Node.JS Slash Commands for Discord
 * [dressed](https://github.com/Inbestigator/dressed) ⭐ 56 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-29 - A sleek, serverless-ready Discord API library.
