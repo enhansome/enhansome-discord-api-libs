@@ -134,7 +134,7 @@
                 "last_commit": "2026-08-21T21:24:55Z",
                 "owner": "discord-net",
                 "repo": "Discord.Net",
-                "stars": 3511
+                "stars": 3510
               }
             },
             {
@@ -149,7 +149,7 @@
                 "last_commit": "2026-08-24T21:59:10Z",
                 "owner": "DSharpPlus",
                 "repo": "DSharpPlus",
-                "stars": 1319
+                "stars": 1320
               }
             },
             {
@@ -870,7 +870,7 @@
                 "last_commit": "2025-09-28T22:14:27Z",
                 "owner": "abalabahaha",
                 "repo": "eris",
-                "stars": 1514
+                "stars": 1515
               }
             },
             {
@@ -1555,7 +1555,7 @@
                 "last_commit": "2026-08-08T21:20:12Z",
                 "owner": "serenity-rs",
                 "repo": "serenity",
-                "stars": 5594
+                "stars": 5593
               }
             },
             {
@@ -1748,7 +1748,7 @@
                 "last_commit": "2026-08-17T10:13:37Z",
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26804
+                "stars": 26805
               }
             },
             {
@@ -1986,9 +1986,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:56:20.038Z",
-    "original_repository": "apacheli/discord-api-libs",
-    "original_repository_id": 291793513,
+    "last_updated": "2026-08-27T11:33:17.414Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 291793513,
+      "language": "JavaScript",
+      "last_commit": "2026-08-27T06:49:42Z",
+      "owner": "apacheli",
+      "repo": "discord-api-libs",
+      "stars": 268
+    },
     "original_repository_sha": "e7ece82093fafd86b7b14b819a2fd29edd7af74e",
     "enhanced_repository": "enhansome/enhansome-discord-api-libs",
     "enhanced_repository_description": null,
