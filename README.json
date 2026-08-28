@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 54995014,
                 "language": "MDX",
-                "last_commit": "2026-08-26T16:32:08Z",
+                "last_commit": "2026-08-27T23:35:20Z",
                 "owner": "discord",
                 "repo": "discord-api-docs",
                 "stars": 6476
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "discord",
                 "repo": "discord-api-spec",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -61,7 +63,8 @@
                 "owner": "ballerina-platform",
                 "repo": "module-ballerinax-discord",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -83,7 +86,8 @@
                 "owner": "Cogmasters",
                 "repo": "concord",
                 "stars": 647
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -98,7 +102,8 @@
                 "owner": "cee-studio",
                 "repo": "orca",
                 "stars": 361
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -113,7 +118,8 @@
                 "owner": "dxing97",
                 "repo": "libdiscord",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -134,8 +140,9 @@
                 "last_commit": "2026-08-21T21:24:55Z",
                 "owner": "discord-net",
                 "repo": "Discord.Net",
-                "stars": 3510
-              }
+                "stars": 3511
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -150,7 +157,8 @@
                 "owner": "DSharpPlus",
                 "repo": "DSharpPlus",
                 "stars": 1320
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -165,7 +173,8 @@
                 "owner": "Lachee",
                 "repo": "discord-rpc-csharp",
                 "stars": 693
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -176,11 +185,12 @@
                 "archived": false,
                 "id": 428838886,
                 "language": "C#",
-                "last_commit": "2026-08-26T12:46:09Z",
+                "last_commit": "2026-08-27T13:57:07Z",
                 "owner": "NetCordDev",
                 "repo": "NetCord",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -195,7 +205,8 @@
                 "owner": "Remora",
                 "repo": "Remora.Discord",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -210,7 +221,8 @@
                 "owner": "Quahu",
                 "repo": "Disqord",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -225,7 +237,8 @@
                 "owner": "Discord-Net-Labs",
                 "repo": "Discord.Net-Labs",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -240,7 +253,8 @@
                 "owner": "Aiko-IT-Systems",
                 "repo": "DisCatSharp",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "DiscordUnity",
                 "repo": "DiscordUnity",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "Francessco121",
                 "repo": "Discore",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -292,7 +308,8 @@
                 "owner": "brainboxdotcc",
                 "repo": "DPP",
                 "stars": 1379
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -307,7 +324,8 @@
                 "owner": "yourWaifu",
                 "repo": "sleepy-discord",
                 "stars": 699
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -322,7 +340,8 @@
                 "owner": "zeroxs",
                 "repo": "aegis.cpp",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -337,7 +356,8 @@
                 "owner": "DiscordPP",
                 "repo": "discordpp",
                 "stars": 183
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -352,7 +372,8 @@
                 "owner": "RealTimeChris",
                 "repo": "DiscordCoreAPI",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -367,7 +388,8 @@
                 "owner": "DisCPP",
                 "repo": "DisCPP",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -389,7 +411,8 @@
                 "owner": "discljord",
                 "repo": "discljord",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -404,7 +427,8 @@
                 "owner": "gizmo385",
                 "repo": "discord.clj",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -419,7 +443,8 @@
                 "owner": "JohnnyJayJay",
                 "repo": "ring-discord-auth",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -441,7 +466,8 @@
                 "owner": "lispcord",
                 "repo": "lispcord",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -463,7 +489,8 @@
                 "owner": "shardlab",
                 "repo": "discordcr",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -485,7 +512,8 @@
                 "owner": "b1naryth1ef",
                 "repo": "dscord",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -507,7 +535,8 @@
                 "owner": "nyxx-discord",
                 "repo": "nyxx",
                 "stars": 345
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -529,7 +558,8 @@
                 "owner": "Kraigie",
                 "repo": "nostrum",
                 "stars": 726
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -544,7 +574,8 @@
                 "owner": "cronokirby",
                 "repo": "alchemy",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -559,7 +590,8 @@
                 "owner": "satom99",
                 "repo": "coxir",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -574,7 +606,8 @@
                 "owner": "SpaceEEC",
                 "repo": "crux",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -595,8 +628,9 @@
                 "last_commit": "2026-07-05T14:35:46Z",
                 "owner": "cyteon",
                 "repo": "discord_gleam",
-                "stars": 53
-              }
+                "stars": 52
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -618,7 +652,8 @@
                 "owner": "bwmarrin",
                 "repo": "discordgo",
                 "stars": 5977
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -632,8 +667,9 @@
                 "last_commit": "2026-08-26T22:41:35Z",
                 "owner": "disgoorg",
                 "repo": "disgo",
-                "stars": 607
-              }
+                "stars": 606
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -648,7 +684,8 @@
                 "owner": "diamondburned",
                 "repo": "arikawa",
                 "stars": 597
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -663,7 +700,8 @@
                 "owner": "andersfylling",
                 "repo": "disgord",
                 "stars": 492
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -678,7 +716,8 @@
                 "owner": "Goscord",
                 "repo": "goscord",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -693,7 +732,8 @@
                 "owner": "bsdlp",
                 "repo": "discord-interactions-go",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -715,7 +755,8 @@
                 "owner": "discord-haskell",
                 "repo": "discord-haskell",
                 "stars": 297
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -730,7 +771,8 @@
                 "owner": "simmsb",
                 "repo": "calamity",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -745,7 +787,8 @@
                 "owner": "TiltMeSenpai",
                 "repo": "Discord.hs",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -767,7 +810,8 @@
                 "owner": "RaidAndFade",
                 "repo": "Haxicord",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -789,7 +833,8 @@
                 "owner": "discord-jda",
                 "repo": "JDA",
                 "stars": 4681
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -800,11 +845,12 @@
                 "archived": false,
                 "id": 45755430,
                 "language": "Java",
-                "last_commit": "2026-08-24T12:33:24Z",
+                "last_commit": "2026-08-28T10:55:57Z",
                 "owner": "Discord4J",
                 "repo": "Discord4J",
-                "stars": 1920
-              }
+                "stars": 1921
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -819,7 +865,8 @@
                 "owner": "Javacord",
                 "repo": "Javacord",
                 "stars": 769
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -834,7 +881,8 @@
                 "owner": "MinnDevelopment",
                 "repo": "discord-webhooks",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -849,7 +897,8 @@
                 "owner": "mewna",
                 "repo": "catnip",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -871,7 +920,8 @@
                 "owner": "abalabahaha",
                 "repo": "eris",
                 "stars": 1515
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -886,7 +936,8 @@
                 "owner": "izy521",
                 "repo": "discord.io",
                 "stars": 532
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -901,7 +952,8 @@
                 "owner": "qeled",
                 "repo": "discordie",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -916,7 +968,8 @@
                 "owner": "fb-sean",
                 "repo": "interactions.js",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -931,7 +984,8 @@
                 "owner": "jay3332",
                 "repo": "js-cord",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -953,7 +1007,8 @@
                 "owner": "Xh4H",
                 "repo": "Discord.jl",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -975,7 +1030,8 @@
                 "owner": "kordlib",
                 "repo": "kord",
                 "stars": 1059
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -990,7 +1046,8 @@
                 "owner": "JesseCorbett",
                 "repo": "diskord",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1005,7 +1062,8 @@
                 "owner": "MinnDevelopment",
                 "repo": "jda-ktx",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1020,7 +1078,8 @@
                 "owner": "Jofairden",
                 "repo": "Discord.Kt",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1042,7 +1101,8 @@
                 "owner": "SinisterRectus",
                 "repo": "Discordia",
                 "stars": 769
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1057,7 +1117,8 @@
                 "owner": "GitSparTV",
                 "repo": "discordia-slash",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1072,7 +1133,8 @@
                 "owner": "satom99",
                 "repo": "litcord",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1087,7 +1149,8 @@
                 "owner": "Mehgugs",
                 "repo": "lacord",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1109,7 +1172,8 @@
                 "owner": "krisppurg",
                 "repo": "dimscord",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1124,7 +1188,8 @@
                 "owner": "Krognol",
                 "repo": "discordnim",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1139,7 +1204,8 @@
                 "owner": "SeanOMik",
                 "repo": "nimcord",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1161,7 +1227,8 @@
                 "owner": "discord-php",
                 "repo": "DiscordPHP",
                 "stars": 1077
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1176,7 +1243,8 @@
                 "owner": "restcord",
                 "repo": "restcord",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1191,7 +1259,8 @@
                 "owner": "discord",
                 "repo": "discord-interactions-php",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1206,7 +1275,8 @@
                 "owner": "discord-php",
                 "repo": "DiscordPHP-Slash",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1221,7 +1291,8 @@
                 "owner": "valzargaming",
                 "repo": "Nyasmin",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1242,8 +1313,9 @@
                 "last_commit": "2026-07-27T18:33:15Z",
                 "owner": "Rapptz",
                 "repo": "discord.py",
-                "stars": 16156
-              }
+                "stars": 16158
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1254,11 +1326,12 @@
                 "archived": false,
                 "id": 400837389,
                 "language": "Python",
-                "last_commit": "2026-08-26T19:13:10Z",
+                "last_commit": "2026-08-27T23:48:59Z",
                 "owner": "Pycord-Development",
                 "repo": "pycord",
                 "stars": 2953
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1272,8 +1345,9 @@
                 "last_commit": "2026-08-24T20:33:11Z",
                 "owner": "nextcord",
                 "repo": "nextcord",
-                "stars": 1265
-              }
+                "stars": 1264
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1284,11 +1358,12 @@
                 "archived": false,
                 "id": 287714309,
                 "language": "Python",
-                "last_commit": "2026-08-26T16:35:08Z",
+                "last_commit": "2026-08-27T20:06:25Z",
                 "owner": "hikari-py",
                 "repo": "hikari",
-                "stars": 916
-              }
+                "stars": 915
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1303,7 +1378,8 @@
                 "owner": "interactions-py",
                 "repo": "interactions.py",
                 "stars": 873
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1318,7 +1394,8 @@
                 "owner": "DisnakeDev",
                 "repo": "disnake",
                 "stars": 770
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1333,7 +1410,8 @@
                 "owner": "b1naryth1ef",
                 "repo": "disco",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1348,7 +1426,8 @@
                 "owner": "HuyaneMatsu",
                 "repo": "hata",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1363,7 +1442,8 @@
                 "owner": "EQUENOS",
                 "repo": "dislash.py",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1378,7 +1458,8 @@
                 "owner": "discord",
                 "repo": "discord-interactions-python",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1393,7 +1474,8 @@
                 "owner": "NAFTeam",
                 "repo": "NAFF",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1408,7 +1490,8 @@
                 "owner": "breqdev",
                 "repo": "flask-discord-interactions",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1423,7 +1506,8 @@
                 "owner": "ms7m",
                 "repo": "dispike",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1438,7 +1522,8 @@
                 "owner": "scurry-works",
                 "repo": "scurrypy",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1453,7 +1538,8 @@
                 "owner": "iDevision",
                 "repo": "enhanced-discord.py",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1475,7 +1561,8 @@
                 "owner": "simmsb",
                 "repo": "racket-cord",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1497,7 +1584,8 @@
                 "owner": "shuppet",
                 "repo": "raku-api-discord",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1519,7 +1607,8 @@
                 "owner": "shardlab",
                 "repo": "discordrb",
                 "stars": 613
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1534,7 +1623,8 @@
                 "owner": "swarley",
                 "repo": "vox",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1552,11 +1642,12 @@
                 "archived": false,
                 "id": 73012103,
                 "language": "Rust",
-                "last_commit": "2026-08-08T21:20:12Z",
+                "last_commit": "2026-08-27T22:01:41Z",
                 "owner": "serenity-rs",
                 "repo": "serenity",
                 "stars": 5593
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1571,7 +1662,8 @@
                 "owner": "twilight-rs",
                 "repo": "twilight",
                 "stars": 865
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1586,7 +1678,8 @@
                 "owner": "serenity-rs",
                 "repo": "songbird",
                 "stars": 518
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1601,7 +1694,8 @@
                 "owner": "SpaceManiac",
                 "repo": "discord-rs",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1616,7 +1710,8 @@
                 "owner": "passcod",
                 "repo": "accord",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1631,7 +1726,8 @@
                 "owner": "mbenoukaiss",
                 "repo": "automate",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1653,7 +1749,8 @@
                 "owner": "Katrix",
                 "repo": "AckCord",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1675,7 +1772,8 @@
                 "owner": "fieu",
                 "repo": "discord.sh",
                 "stars": 565
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1697,7 +1795,8 @@
                 "owner": "Azoy",
                 "repo": "Sword",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1712,7 +1811,8 @@
                 "owner": "nuclearace",
                 "repo": "SwiftDiscord",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1727,7 +1827,8 @@
                 "owner": "M1tsumi",
                 "repo": "SwiftDisc",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1745,11 +1846,12 @@
                 "archived": false,
                 "id": 40484398,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T10:13:37Z",
+                "last_commit": "2026-08-27T13:01:43Z",
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26805
-              }
+                "stars": 26801
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1760,11 +1862,12 @@
                 "archived": false,
                 "id": 238842359,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:32:22Z",
+                "last_commit": "2026-08-28T11:25:28Z",
                 "owner": "discordeno",
                 "repo": "discordeno",
-                "stars": 941
-              }
+                "stars": 942
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1775,11 +1878,12 @@
                 "archived": false,
                 "id": 281080399,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T19:08:00Z",
+                "last_commit": "2026-08-27T11:39:53Z",
                 "owner": "sapphiredev",
                 "repo": "framework",
                 "stars": 750
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1794,7 +1898,8 @@
                 "owner": "discord",
                 "repo": "discord-interactions-js",
                 "stars": 518
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1809,7 +1914,8 @@
                 "owner": "Snazzah",
                 "repo": "slash-create",
                 "stars": 365
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1824,7 +1930,8 @@
                 "owner": "discordjs",
                 "repo": "voice",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1839,7 +1946,8 @@
                 "owner": "harmonyland",
                 "repo": "harmony",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1854,7 +1962,8 @@
                 "owner": "tiramisulabs",
                 "repo": "seyfert",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1869,7 +1978,8 @@
                 "owner": "detritusjs",
                 "repo": "client",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1884,7 +1994,8 @@
                 "owner": "MeguminSama",
                 "repo": "discord-slash-commands",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1899,7 +2010,8 @@
                 "owner": "Inbestigator",
                 "repo": "dressed",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1914,7 +2026,8 @@
                 "owner": "tim-smart",
                 "repo": "droff",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1929,7 +2042,8 @@
                 "owner": "dirigeants",
                 "repo": "core",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1944,7 +2058,8 @@
                 "owner": "skycord",
                 "repo": "skycord",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1959,7 +2074,8 @@
                 "owner": "arcscord",
                 "repo": "arcscord",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             },
             {
               "node_type": "item",
@@ -1974,7 +2090,8 @@
                 "owner": "Redstoneguy129",
                 "repo": "Deno-Discord-Slash-Commands",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T11:29:43.235Z"
             }
           ],
           "description": null,
@@ -1986,17 +2103,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:17.414Z",
+    "last_updated": "2026-08-28T11:29:43.235Z",
     "original_repository_info": {
       "archived": false,
       "id": 291793513,
       "language": "JavaScript",
-      "last_commit": "2026-08-27T06:49:42Z",
+      "last_commit": "2026-08-28T08:39:36Z",
       "owner": "apacheli",
       "repo": "discord-api-libs",
       "stars": 268
     },
-    "original_repository_sha": "e7ece82093fafd86b7b14b819a2fd29edd7af74e",
+    "original_repository_sha": "e18c82cb3b8867b8fd43bf69fb15906dc497039e",
     "enhanced_repository": "enhansome/enhansome-discord-api-libs",
     "enhanced_repository_description": null,
     "title": "Awesome Discord API Libraries 🚀 with stars"
