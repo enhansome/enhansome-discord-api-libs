@@ -21,7 +21,7 @@
                 "open_issues": 310,
                 "owner": "discord",
                 "repo": "discord-api-docs",
-                "stars": 6477,
+                "stars": 6476,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -571,7 +571,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2025-12-03T03:57:51Z",
-                "open_issues": 91,
+                "open_issues": 90,
                 "owner": "yourWaifu",
                 "repo": "sleepy-discord",
                 "stars": 699,
@@ -1532,7 +1532,7 @@
                 "open_issues": 10,
                 "owner": "MinnDevelopment",
                 "repo": "discord-webhooks",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "discord",
                   "gradle",
@@ -2789,7 +2789,7 @@
                 "open_issues": 55,
                 "owner": "serenity-rs",
                 "repo": "serenity",
-                "stars": 5594,
+                "stars": 5595,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -3109,8 +3109,8 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T13:01:43Z",
-                "open_issues": 159,
+                "last_commit": "2026-08-29T06:39:46Z",
+                "open_issues": 158,
                 "owner": "discordjs",
                 "repo": "discord.js",
                 "stars": 26804,
@@ -3144,7 +3144,7 @@
                 "open_issues": 96,
                 "owner": "discordeno",
                 "repo": "discordeno",
-                "stars": 942,
+                "stars": 941,
                 "topics": [
                   "api",
                   "bot",
@@ -3533,7 +3533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:47.503Z",
+    "last_updated": "2026-08-29T07:09:13.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source Discord API Libraries",
@@ -3541,7 +3541,7 @@
       "id": 291793513,
       "language": "JavaScript",
       "license": "Apache-2.0",
-      "last_commit": "2026-08-28T08:39:36Z",
+      "last_commit": "2026-08-29T05:19:23Z",
       "open_issues": 4,
       "owner": "apacheli",
       "repo": "discord-api-libs",
@@ -3565,7 +3565,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "e18c82cb3b8867b8fd43bf69fb15906dc497039e",
+    "original_repository_sha": "1f2ffe25e74064be42d8abe56446146130f4a920",
     "enhanced_repository": "enhansome/enhansome-discord-api-libs",
     "enhanced_repository_description": null,
     "title": "Awesome Discord API Libraries 🚀 with stars"

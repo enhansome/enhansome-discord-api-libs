@@ -15,7 +15,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### Tools
 
-* [discord-api-docs](https://github.com/discord/discord-api-docs) ⭐ 6,477 | 🐛 310 | 🌐 MDX | 📅 2026-08-27
+* [discord-api-docs](https://github.com/discord/discord-api-docs) ⭐ 6,476 | 🐛 310 | 🌐 MDX | 📅 2026-08-27
 * [discord-api-spec](https://github.com/discord/discord-api-spec) ⭐ 321 | 🐛 13 | 📅 2026-08-24
 * [Discord Developer Documentation](https://discord.com/developers/docs/intro)
 
@@ -47,7 +47,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 ### C++
 
 * [DPP](https://github.com/brainboxdotcc/DPP) ⭐ 1,379 | 🐛 4 | 🌐 C++ | 📅 2026-08-25 - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
-* [sleepy-discord](https://github.com/yourWaifu/sleepy-discord) ⭐ 699 | 🐛 91 | 🌐 C++ | 📅 2025-12-03 - C++ library for the Discord chat client.
+* [sleepy-discord](https://github.com/yourWaifu/sleepy-discord) ⭐ 699 | 🐛 90 | 🌐 C++ | 📅 2025-12-03 - C++ library for the Discord chat client.
 * [aegis.cpp](https://github.com/zeroxs/aegis.cpp) ⚠️ Archived **(archived)** - Discord C++ library for interfacing with the API. Join our server: <https://discord.gg/w7Y3Bb8>
 * [discordpp](https://github.com/DiscordPP/discordpp) ⭐ 183 | 🐛 1 | 🌐 C++ | 📅 2024-04-24 - A Modularized C++ Library for the Discord API
 * [DiscordCoreAPI](https://github.com/RealTimeChris/DiscordCoreAPI) ⭐ 162 | 🐛 0 | 🌐 C++ | 📅 2025-01-29 - A bot library for Discord, written in C++, and featuring explicit multithreading through the usage of custom, asynchronous C++ CoRoutines.
@@ -110,7 +110,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 * [JDA](https://github.com/discord-jda/JDA) ⭐ 4,682 | 🐛 76 | 🌐 Java | 📅 2026-08-26 - Java wrapper for the popular chat & VOIP service: Discord <https://discord.com>
 * [Discord4J](https://github.com/Discord4J/Discord4J) ⭐ 1,921 | 🐛 29 | 🌐 Java | 📅 2026-08-28 - Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development of Discord bots for Java, Kotlin, and other JVM languages using the official Discord Bot API.
 * [Javacord](https://github.com/Javacord/Javacord) ⭐ 769 | 🐛 112 | 🌐 Java | 📅 2025-02-07 - An easy to use multithreaded library for creating Discord bots in Java.
-* [discord-webhooks](https://github.com/MinnDevelopment/discord-webhooks) ⭐ 196 | 🐛 10 | 🌐 Java | 📅 2024-02-28 - Provides easy to use bindings for the Discord Webhook API
+* [discord-webhooks](https://github.com/MinnDevelopment/discord-webhooks) ⭐ 197 | 🐛 10 | 🌐 Java | 📅 2024-02-28 - Provides easy to use bindings for the Discord Webhook API
 * [catnip](https://github.com/mewna/catnip) ⚠️ Archived **(archived)** - A reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.
 
 ### JavaScript
@@ -186,7 +186,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### Rust
 
-* [serenity](https://github.com/serenity-rs/serenity) ⭐ 5,594 | 🐛 55 | 🌐 Rust | 📅 2026-08-27 - A Rust library for the Discord API.
+* [serenity](https://github.com/serenity-rs/serenity) ⭐ 5,595 | 🐛 55 | 🌐 Rust | 📅 2026-08-27 - A Rust library for the Discord API.
 * [twilight](https://github.com/twilight-rs/twilight) ⭐ 865 | 🐛 69 | 🌐 Rust | 📅 2026-08-22 - Powerful, flexible, and scalable ecosystem of Rust libraries for the Discord API.
 * [songbird](https://github.com/serenity-rs/songbird) ⭐ 518 | 🐛 29 | 🌐 Rust | 📅 2026-04-08 - An async Rust library for the Discord voice API
 * [discord-rs](https://github.com/SpaceManiac/discord-rs) ⭐ 396 | 🐛 18 | 🌐 Rust | 📅 2023-11-22 - Rust library for the Discord chat client API
@@ -209,8 +209,8 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### TypeScript
 
-* [discord.js](https://github.com/discordjs/discord.js) ⭐ 26,804 | 🐛 159 | 🌐 TypeScript | 📅 2026-08-27 - A powerful JavaScript library for interacting with the Discord API
-* [discordeno](https://github.com/discordeno/discordeno) ⭐ 942 | 🐛 96 | 🌐 TypeScript | 📅 2026-08-28 - Discord API library for Node and Deno
+* [discord.js](https://github.com/discordjs/discord.js) ⭐ 26,804 | 🐛 158 | 🌐 TypeScript | 📅 2026-08-29 - A powerful JavaScript library for interacting with the Discord API
+* [discordeno](https://github.com/discordeno/discordeno) ⭐ 941 | 🐛 96 | 🌐 TypeScript | 📅 2026-08-28 - Discord API library for Node and Deno
 * [framework](https://github.com/sapphiredev/framework) ⭐ 751 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-27 - Discord bot framework built on top of discord.js for advanced and amazing bots.
 * [discord-interactions-js](https://github.com/discord/discord-interactions-js) ⭐ 518 | 🐛 5 | 🌐 TypeScript | 📅 2025-10-28 - JS/Node helpers for Discord Interactions
 * [slash-create](https://github.com/Snazzah/slash-create) ⭐ 365 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-05 - 🗡️ Creator and handler for Discord's slash commands
