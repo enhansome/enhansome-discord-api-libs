@@ -18,7 +18,7 @@
                 "language": "MDX",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-09-25T19:02:31Z",
-                "open_issues": 302,
+                "open_issues": 304,
                 "owner": "discord",
                 "repo": "discord-api-docs",
                 "stars": 6506,
@@ -308,7 +308,7 @@
                 "id": 428838886,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-26T00:58:14Z",
+                "last_commit": "2026-09-26T21:39:26Z",
                 "open_issues": 19,
                 "owner": "NetCordDev",
                 "repo": "NetCord",
@@ -971,7 +971,7 @@
                 "open_issues": 41,
                 "owner": "Kraigie",
                 "repo": "nostrum",
-                "stars": 728,
+                "stars": 727,
                 "topics": [
                   "bot",
                   "discord",
@@ -1114,7 +1114,7 @@
                 "open_issues": 232,
                 "owner": "bwmarrin",
                 "repo": "discordgo",
-                "stars": 5989,
+                "stars": 5990,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -1175,7 +1175,7 @@
                 "open_issues": 35,
                 "owner": "diamondburned",
                 "repo": "arikawa",
-                "stars": 599,
+                "stars": 598,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -1296,7 +1296,7 @@
                 "open_issues": 36,
                 "owner": "discord-haskell",
                 "repo": "discord-haskell",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "bot",
                   "discord",
@@ -1425,7 +1425,7 @@
                 "open_issues": 75,
                 "owner": "discord-jda",
                 "repo": "JDA",
-                "stars": 4691,
+                "stars": 4692,
                 "topics": [
                   "api",
                   "api-wrapper",
@@ -1733,7 +1733,7 @@
                 "language": "Julia",
                 "license": "MIT",
                 "last_commit": "2023-04-16T05:37:08Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "Xh4H",
                 "repo": "Discord.jl",
                 "stars": 157,
@@ -2085,7 +2085,7 @@
                 "id": 40585918,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-24T14:58:40Z",
+                "last_commit": "2026-09-27T02:51:59Z",
                 "open_issues": 18,
                 "owner": "discord-php",
                 "repo": "DiscordPHP",
@@ -2206,7 +2206,7 @@
                 "open_issues": 173,
                 "owner": "Rapptz",
                 "repo": "discord.py",
-                "stars": 16187,
+                "stars": 16188,
                 "topics": [
                   "bot",
                   "discord",
@@ -2301,7 +2301,7 @@
                 "open_issues": 47,
                 "owner": "hikari-py",
                 "repo": "hikari",
-                "stars": 918,
+                "stars": 917,
                 "topics": [
                   "asyncio",
                   "bot",
@@ -2732,7 +2732,7 @@
                 "open_issues": 83,
                 "owner": "shardlab",
                 "repo": "discordrb",
-                "stars": 611,
+                "stars": 612,
                 "topics": [
                   "discord",
                   "hacktoberfest"
@@ -2789,7 +2789,7 @@
                 "open_issues": 57,
                 "owner": "serenity-rs",
                 "repo": "serenity",
-                "stars": 5611,
+                "stars": 5612,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -2811,8 +2811,8 @@
                 "id": 205719706,
                 "language": "Rust",
                 "license": "ISC",
-                "last_commit": "2026-09-22T06:33:21Z",
-                "open_issues": 73,
+                "last_commit": "2026-09-26T11:05:18Z",
+                "open_issues": 69,
                 "owner": "twilight-rs",
                 "repo": "twilight",
                 "stars": 875,
@@ -3113,7 +3113,7 @@
                 "open_issues": 163,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26825,
+                "stars": 26827,
                 "topics": [
                   "bot",
                   "discord",
@@ -3174,7 +3174,7 @@
                 "id": 281080399,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T00:00:43Z",
+                "last_commit": "2026-09-26T11:28:21Z",
                 "open_issues": 15,
                 "owner": "sapphiredev",
                 "repo": "framework",
@@ -3316,11 +3316,11 @@
                 "id": 505204005,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T19:41:01Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-26T16:54:24Z",
+                "open_issues": 2,
                 "owner": "tiramisulabs",
                 "repo": "seyfert",
-                "stars": 320,
+                "stars": 319,
                 "topics": [
                   "biscuit",
                   "bun",
@@ -3533,7 +3533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T05:06:38.895Z",
+    "last_updated": "2026-09-27T05:24:18.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source Discord API Libraries",
@@ -3541,7 +3541,7 @@
       "id": 291793513,
       "language": "JavaScript",
       "license": "Apache-2.0",
-      "last_commit": "2026-09-26T03:09:48Z",
+      "last_commit": "2026-09-27T03:15:09Z",
       "open_issues": 6,
       "owner": "apacheli",
       "repo": "discord-api-libs",
@@ -3565,7 +3565,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "2186e5a470c4915fb6e44526877b3c2d567f5f04",
+    "original_repository_sha": "6a5a98ce7f53b785472c04f7dd95f385140d380d",
     "enhanced_repository": "enhansome/enhansome-discord-api-libs",
     "enhanced_repository_description": null,
     "title": "Awesome Discord API Libraries 🚀 with stars"
