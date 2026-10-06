@@ -36,7 +36,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 * [Discord.Net](https://github.com/discord-net/Discord.Net) ⭐ 3,516 | 🐛 111 | 🌐 C# | 📅 2026-10-04 - An unofficial .Net wrapper for the Discord API (<https://discord.com/>)
 * [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) ⭐ 1,329 | 🐛 80 | 🌐 C# | 📅 2026-09-23 - A .NET library for making bots using the Discord API.
 * [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp) ⭐ 694 | 🐛 28 | 🌐 C# | 📅 2025-12-08 - C# custom implementation for Discord Rich Presence. Not deprecated and still available!
-* [NetCord](https://github.com/NetCordDev/NetCord) ⭐ 458 | 🐛 21 | 🌐 C# | 📅 2026-10-05 - A modern, lightweight, and customizable C# Discord library with Native AOT support, immutable caching, voice capabilities, and complete API coverage.
+* [NetCord](https://github.com/NetCordDev/NetCord) ⭐ 459 | 🐛 21 | 🌐 C# | 📅 2026-10-05 - A modern, lightweight, and customizable C# Discord library with Native AOT support, immutable caching, voice capabilities, and complete API coverage.
 * [Remora.Discord](https://github.com/Remora/Remora.Discord) ⭐ 258 | 🐛 21 | 🌐 C# | 📅 2026-09-23 - A data-oriented C# Discord library, focused on high-performance concurrency and robust design.
 * [Disqord](https://github.com/Quahu/Disqord) ⭐ 170 | 🐛 2 | 🌐 C# | 📅 2026-08-16 - Asynchronous Discord API wrapper and bot framework for .NET.
 * [Discord.Net-Labs](https://github.com/Discord-Net-Labs/Discord.Net-Labs) ⚠️ Archived **(archived)** - An experimental fork of Discord.Net that implements the newest discord features for testing and development to eventually get merged into Discord.Net
@@ -147,7 +147,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### PHP
 
-* [DiscordPHP](https://github.com/discord-php/DiscordPHP) ⭐ 1,080 | 🐛 0 | 🌐 PHP | 📅 2026-10-05 - An API to interact with the popular messaging app Discord
+* [DiscordPHP](https://github.com/discord-php/DiscordPHP) ⭐ 1,080 | 🐛 0 | 🌐 PHP | 📅 2026-10-06 - An API to interact with the popular messaging app Discord
 * [restcord](https://github.com/restcord/restcord) ⭐ 177 | 🐛 1 | 🌐 PHP | 📅 2026-10-02 - Discord REST API Client
 * [discord-interactions-php](https://github.com/discord/discord-interactions-php) ⭐ 47 | 🐛 2 | 🌐 PHP | 📅 2023-11-28 - PHP utilities for building Discord Interaction webhooks
 * [DiscordPHP-Slash](https://github.com/discord-php/DiscordPHP-Slash) ⚠️ Archived **(archived)** - PHP server and client for Discord slash commands.
@@ -155,8 +155,8 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,193 | 🐛 175 | 🌐 Python | 📅 2026-09-07 - An API wrapper for Discord written in Python.
-* [pycord](https://github.com/Pycord-Development/pycord) ⭐ 2,959 | 🐛 107 | 🌐 Python | 📅 2026-10-05 - Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,195 | 🐛 175 | 🌐 Python | 📅 2026-09-07 - An API wrapper for Discord written in Python.
+* [pycord](https://github.com/Pycord-Development/pycord) ⭐ 2,959 | 🐛 106 | 🌐 Python | 📅 2026-10-06 - Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python
 * [nextcord](https://github.com/nextcord/nextcord) ⭐ 1,263 | 🐛 71 | 🌐 Python | 📅 2026-10-05 - A Python wrapper for the Discord API forked from discord.py
 * [hikari](https://github.com/hikari-py/hikari) ⭐ 917 | 🐛 48 | 🌐 Python | 📅 2026-10-05 - A Discord API wrapper for Python and asyncio built on good intentions.
 * [interactions.py](https://github.com/interactions-py/interactions.py) ⭐ 874 | 🐛 30 | 🌐 Python | 📅 2026-10-05 - A highly extensible, easy to use, and feature complete bot framework for Discord

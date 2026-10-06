@@ -312,7 +312,7 @@
                 "open_issues": 21,
                 "owner": "NetCordDev",
                 "repo": "NetCord",
-                "stars": 458,
+                "stars": 459,
                 "topics": [
                   "bot",
                   "discord",
@@ -2085,7 +2085,7 @@
                 "id": 40585918,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-05T17:05:13Z",
+                "last_commit": "2026-10-06T08:30:49Z",
                 "open_issues": 0,
                 "owner": "discord-php",
                 "repo": "DiscordPHP",
@@ -2206,7 +2206,7 @@
                 "open_issues": 175,
                 "owner": "Rapptz",
                 "repo": "discord.py",
-                "stars": 16193,
+                "stars": 16195,
                 "topics": [
                   "bot",
                   "discord",
@@ -2231,8 +2231,8 @@
                 "id": 400837389,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T18:49:04Z",
-                "open_issues": 107,
+                "last_commit": "2026-10-06T07:58:16Z",
+                "open_issues": 106,
                 "owner": "Pycord-Development",
                 "repo": "pycord",
                 "stars": 2959,
@@ -3533,7 +3533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:28:59.339Z",
+    "last_updated": "2026-10-06T11:09:15.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source Discord API Libraries",
