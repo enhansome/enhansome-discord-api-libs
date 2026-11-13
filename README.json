@@ -17,7 +17,7 @@
                 "id": 54995014,
                 "language": "MDX",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-10T22:37:39Z",
+                "last_commit": "2026-11-12T23:23:01Z",
                 "open_issues": 302,
                 "owner": "discord",
                 "repo": "discord-api-docs",
@@ -217,7 +217,7 @@
                 "open_issues": 112,
                 "owner": "discord-net",
                 "repo": "Discord.Net",
-                "stars": 3525,
+                "stars": 3524,
                 "topics": [
                   "bot",
                   "csharp",
@@ -242,11 +242,11 @@
                 "id": 67243489,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-11T18:04:24Z",
-                "open_issues": 82,
+                "last_commit": "2026-11-12T22:12:59Z",
+                "open_issues": 83,
                 "owner": "DSharpPlus",
                 "repo": "DSharpPlus",
-                "stars": 1343,
+                "stars": 1344,
                 "topics": [
                   "api",
                   "bot",
@@ -281,7 +281,7 @@
                 "open_issues": 30,
                 "owner": "Lachee",
                 "repo": "discord-rpc-csharp",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "csharp",
                   "discord",
@@ -308,7 +308,7 @@
                 "id": 428838886,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-11T18:10:25Z",
+                "last_commit": "2026-11-13T04:13:09Z",
                 "open_issues": 21,
                 "owner": "NetCordDev",
                 "repo": "NetCord",
@@ -431,7 +431,7 @@
                 "id": 381022279,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T04:25:12Z",
+                "last_commit": "2026-11-13T04:57:16Z",
                 "open_issues": 9,
                 "owner": "Aiko-IT-Systems",
                 "repo": "DisCatSharp",
@@ -971,7 +971,7 @@
                 "open_issues": 43,
                 "owner": "Kraigie",
                 "repo": "nostrum",
-                "stars": 729,
+                "stars": 730,
                 "topics": [
                   "bot",
                   "discord",
@@ -1114,7 +1114,7 @@
                 "open_issues": 235,
                 "owner": "bwmarrin",
                 "repo": "discordgo",
-                "stars": 6001,
+                "stars": 6000,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -1175,7 +1175,7 @@
                 "open_issues": 38,
                 "owner": "diamondburned",
                 "repo": "arikawa",
-                "stars": 608,
+                "stars": 609,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -1292,8 +1292,8 @@
                 "id": 137131410,
                 "language": "Haskell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T23:49:54Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-12T23:47:35Z",
+                "open_issues": 33,
                 "owner": "discord-haskell",
                 "repo": "discord-haskell",
                 "stars": 300,
@@ -1383,7 +1383,7 @@
                 "open_issues": 2,
                 "owner": "RaidAndFade",
                 "repo": "Haxicord",
-                "stars": 61,
+                "stars": 60,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -1559,7 +1559,7 @@
                 "open_issues": 54,
                 "owner": "mewna",
                 "repo": "catnip",
-                "stars": 149,
+                "stars": 148,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -1651,7 +1651,7 @@
                 "open_issues": 30,
                 "owner": "qeled",
                 "repo": "discordie",
-                "stars": 190,
+                "stars": 188,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:43.235Z"
@@ -2085,7 +2085,7 @@
                 "id": 40585918,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-10T21:34:50Z",
+                "last_commit": "2026-11-12T16:07:18Z",
                 "open_issues": 2,
                 "owner": "discord-php",
                 "repo": "DiscordPHP",
@@ -2136,7 +2136,7 @@
                 "open_issues": 2,
                 "owner": "discord",
                 "repo": "discord-interactions-php",
-                "stars": 47,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:43.235Z"
@@ -2231,8 +2231,8 @@
                 "id": 400837389,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-12T06:45:49Z",
-                "open_issues": 100,
+                "last_commit": "2026-11-13T00:13:25Z",
+                "open_issues": 102,
                 "owner": "Pycord-Development",
                 "repo": "pycord",
                 "stars": 2966,
@@ -2297,11 +2297,11 @@
                 "id": 287714309,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T15:14:33Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-12T19:41:12Z",
+                "open_issues": 56,
                 "owner": "hikari-py",
                 "repo": "hikari",
-                "stars": 922,
+                "stars": 923,
                 "topics": [
                   "asyncio",
                   "bot",
@@ -2362,7 +2362,7 @@
                 "id": 400763760,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T11:56:33Z",
+                "last_commit": "2026-11-12T16:08:07Z",
                 "open_issues": 93,
                 "owner": "DisnakeDev",
                 "repo": "disnake",
@@ -2732,7 +2732,7 @@
                 "open_issues": 85,
                 "owner": "shardlab",
                 "repo": "discordrb",
-                "stars": 614,
+                "stars": 613,
                 "topics": [
                   "discord",
                   "hacktoberfest"
@@ -2785,7 +2785,7 @@
                 "id": 73012103,
                 "language": "Rust",
                 "license": "ISC",
-                "last_commit": "2026-11-11T18:13:24Z",
+                "last_commit": "2026-11-12T19:35:25Z",
                 "open_issues": 56,
                 "owner": "serenity-rs",
                 "repo": "serenity",
@@ -3110,10 +3110,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-10T19:11:34Z",
-                "open_issues": 155,
+                "open_issues": 156,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26833,
+                "stars": 26835,
                 "topics": [
                   "bot",
                   "discord",
@@ -3144,7 +3144,7 @@
                 "open_issues": 68,
                 "owner": "discordeno",
                 "repo": "discordeno",
-                "stars": 941,
+                "stars": 942,
                 "topics": [
                   "api",
                   "bot",
@@ -3178,7 +3178,7 @@
                 "open_issues": 16,
                 "owner": "sapphiredev",
                 "repo": "framework",
-                "stars": 756,
+                "stars": 757,
                 "topics": [
                   "bot",
                   "discord",
@@ -3256,7 +3256,7 @@
                 "open_issues": 0,
                 "owner": "tiramisulabs",
                 "repo": "seyfert",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "biscuit",
                   "bun",
@@ -3533,7 +3533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:20:14.770Z",
+    "last_updated": "2026-11-13T06:53:48.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source Discord API Libraries",
@@ -3541,7 +3541,7 @@
       "id": 291793513,
       "language": "JavaScript",
       "license": "Apache-2.0",
-      "last_commit": "2026-11-12T05:29:45Z",
+      "last_commit": "2026-11-13T04:44:57Z",
       "open_issues": 7,
       "owner": "apacheli",
       "repo": "discord-api-libs",
@@ -3565,7 +3565,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "55c3e28f3d149ce982e0cc79468eaa3e1c4d79f1",
+    "original_repository_sha": "45c696fc8b6abc7dd152532dcd57f7f6ce123595",
     "enhanced_repository": "enhansome/enhansome-discord-api-libs",
     "enhanced_repository_description": null,
     "title": "Awesome Discord API Libraries 🚀 with stars"
