@@ -18,7 +18,7 @@
                 "language": "MDX",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-11-25T19:14:13Z",
-                "open_issues": 301,
+                "open_issues": 303,
                 "owner": "discord",
                 "repo": "discord-api-docs",
                 "stars": 6541,
@@ -217,7 +217,7 @@
                 "open_issues": 114,
                 "owner": "discord-net",
                 "repo": "Discord.Net",
-                "stars": 3524,
+                "stars": 3526,
                 "topics": [
                   "bot",
                   "csharp",
@@ -532,7 +532,7 @@
                 "open_issues": 5,
                 "owner": "brainboxdotcc",
                 "repo": "DPP",
-                "stars": 1403,
+                "stars": 1401,
                 "topics": [
                   "api",
                   "api-client",
@@ -2206,7 +2206,7 @@
                 "open_issues": 193,
                 "owner": "Rapptz",
                 "repo": "discord.py",
-                "stars": 16214,
+                "stars": 16215,
                 "topics": [
                   "bot",
                   "discord",
@@ -2231,7 +2231,7 @@
                 "id": 400837389,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-27T04:25:37Z",
+                "last_commit": "2026-11-28T02:30:09Z",
                 "open_issues": 92,
                 "owner": "Pycord-Development",
                 "repo": "pycord",
@@ -2267,7 +2267,7 @@
                 "open_issues": 72,
                 "owner": "nextcord",
                 "repo": "nextcord",
-                "stars": 1257,
+                "stars": 1255,
                 "topics": [
                   "api-wrapper",
                   "bot-framework",
@@ -2297,8 +2297,8 @@
                 "id": 287714309,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-24T20:53:43Z",
-                "open_issues": 56,
+                "last_commit": "2026-11-28T07:57:03Z",
+                "open_issues": 52,
                 "owner": "hikari-py",
                 "repo": "hikari",
                 "stars": 922,
@@ -2330,7 +2330,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-23T21:36:17Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "interactions-py",
                 "repo": "interactions.py",
                 "stars": 874,
@@ -2362,8 +2362,8 @@
                 "id": 400763760,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-25T15:48:09Z",
-                "open_issues": 96,
+                "last_commit": "2026-11-27T13:38:27Z",
+                "open_issues": 97,
                 "owner": "DisnakeDev",
                 "repo": "disnake",
                 "stars": 772,
@@ -2789,7 +2789,7 @@
                 "open_issues": 51,
                 "owner": "serenity-rs",
                 "repo": "serenity",
-                "stars": 5665,
+                "stars": 5667,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -2815,7 +2815,7 @@
                 "open_issues": 80,
                 "owner": "twilight-rs",
                 "repo": "twilight",
-                "stars": 894,
+                "stars": 892,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -2842,7 +2842,7 @@
                 "open_issues": 37,
                 "owner": "serenity-rs",
                 "repo": "songbird",
-                "stars": 531,
+                "stars": 532,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -3076,7 +3076,7 @@
                 "open_issues": 2,
                 "owner": "M1tsumi",
                 "repo": "SwiftDisc",
-                "stars": 46,
+                "stars": 45,
                 "topics": [
                   "bot-framework",
                   "discord",
@@ -3110,10 +3110,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-26T21:39:32Z",
-                "open_issues": 130,
+                "open_issues": 131,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26836,
+                "stars": 26835,
                 "topics": [
                   "bot",
                   "discord",
@@ -3140,8 +3140,8 @@
                 "id": 238842359,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T22:54:03Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-28T02:31:41Z",
+                "open_issues": 37,
                 "owner": "discordeno",
                 "repo": "discordeno",
                 "stars": 943,
@@ -3174,7 +3174,7 @@
                 "id": 281080399,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-26T14:26:48Z",
+                "last_commit": "2026-11-28T00:23:57Z",
                 "open_issues": 20,
                 "owner": "sapphiredev",
                 "repo": "framework",
@@ -3205,7 +3205,7 @@
                 "open_issues": 7,
                 "owner": "discord",
                 "repo": "discord-interactions-js",
-                "stars": 524,
+                "stars": 523,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:43.235Z"
@@ -3256,7 +3256,7 @@
                 "open_issues": 1,
                 "owner": "tiramisulabs",
                 "repo": "seyfert",
-                "stars": 332,
+                "stars": 333,
                 "topics": [
                   "biscuit",
                   "bun",
@@ -3533,7 +3533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T08:44:26.534Z",
+    "last_updated": "2026-11-28T07:58:03.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source Discord API Libraries",
@@ -3541,7 +3541,7 @@
       "id": 291793513,
       "language": "JavaScript",
       "license": "Apache-2.0",
-      "last_commit": "2026-11-27T06:21:32Z",
+      "last_commit": "2026-11-28T06:01:47Z",
       "open_issues": 7,
       "owner": "apacheli",
       "repo": "discord-api-libs",
@@ -3565,7 +3565,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "7b48f778274efaeca0169fcc9542e142b618456b",
+    "original_repository_sha": "3eb6bfc0390b98d7d279d9919b7d260335246506",
     "enhanced_repository": "enhansome/enhansome-discord-api-libs",
     "enhanced_repository_description": null,
     "title": "Awesome Discord API Libraries 🚀 with stars"
